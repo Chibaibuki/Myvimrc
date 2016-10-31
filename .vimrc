@@ -47,7 +47,7 @@ set shiftwidth=4
 ""Auto Indent Setting
 set autoindent 
 if has("cscope")
-    set csprg=/usr/local/cscope
+    set csprg=/usr/share/cscope
     set csto=0
     set cst
     set nocsverb
